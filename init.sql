@@ -1,0 +1,3 @@
+CREATE USER root;
+CREATE DATABASE secrets-db;
+GRANT ALL PRIVILEGES ON DATABASE secrets-db TO root;
